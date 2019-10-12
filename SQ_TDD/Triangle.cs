@@ -24,7 +24,7 @@ namespace SQ_TDD
         {
             int angleC = 0;
 
-            if(angleB > 0)
+            if((angleB > 0) && (angleA > 0))
             {
                 angleC = 180 - angleA - angleB;
             }
