@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+* FILE : Program.cs
+* PROJECT : SQ Lab TDD
+* PROGRAMMER : Hyungbum Kim
+* FIRST  VERSION : 2019-10-12
+* DESCRIPTION :
+* The purpose of this program is to do
+* Test Driven Development with 
+* calculation of triangle
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
