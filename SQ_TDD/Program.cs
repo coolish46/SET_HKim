@@ -10,6 +10,7 @@ namespace SQ_TDD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First Test");
         }
     }
 }
