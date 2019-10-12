@@ -23,7 +23,12 @@ namespace SQ_TDD
         public int CalcAngle(int angleA, int angleB)
         {
             int angleC = 0;
-            angleC = 180 - angleA - angleB;
+
+            if(angleB > 0)
+            {
+                angleC = 180 - angleA - angleB;
+            }
+           
 
             return angleC;
         }
