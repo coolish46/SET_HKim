@@ -19,5 +19,11 @@ namespace SQ_TDD
             area = (sideA * sideB) / 2;
             return area;
         }
+
+        public int CalcAngle(int angleA, int angleB)
+        {
+            int angleC = 0;
+            return angleC;
+        }
     }
 }
