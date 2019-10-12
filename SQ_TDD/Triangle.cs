@@ -16,7 +16,7 @@ namespace SQ_TDD
         public double CalcArea(int sideA, int sideB)
         {
             double area = 0.0;
-            area = sideA * sideB;
+            area = (sideA * sideB) / 2;
             return area;
         }
     }
