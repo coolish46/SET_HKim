@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQ_TDD", "SQ_TDD.csproj", "{21D72931-13F0-48B0-8604-6DA4D42224D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQ_TDD_TEST", "..\SQ_TDD_TEST\SQ_TDD_TEST.csproj", "{8C57A6F2-CDA1-4A44-9475-B248C691E1FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{21D72931-13F0-48B0-8604-6DA4D42224D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D72931-13F0-48B0-8604-6DA4D42224D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D72931-13F0-48B0-8604-6DA4D42224D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C57A6F2-CDA1-4A44-9475-B248C691E1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C57A6F2-CDA1-4A44-9475-B248C691E1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C57A6F2-CDA1-4A44-9475-B248C691E1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C57A6F2-CDA1-4A44-9475-B248C691E1FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
